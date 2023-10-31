@@ -1,0 +1,33 @@
+h2 {
+    text-align: center;
+  }
+  
+  .mt-4 {
+    margin-top: 2rem;
+  }
+  
+  table {
+    margin-top: 1rem;
+  }
+  
+  th {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  th,
+  td {
+    text-align: center;
+  }
+  
+  .actions-btn {
+    display: flex;
+    justify-content: center;
+  }
+  .addUser {
+        display: flex;
+        justify-content: center;
+        background-color: green;
+        color:white;
+  }
+  

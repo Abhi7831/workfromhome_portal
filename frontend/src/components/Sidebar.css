@@ -1,0 +1,25 @@
+/* Sidebar.css */
+.sidebar-container {
+  display: flex; /* Use flex display to create a horizontal layout */
+  height: 100vh;
+}
+
+.sidebar {
+  width: 250px;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align:left;
+}
+
+.nav-link {
+  color: #fff;
+  text-decoration: none;
+}
+
+.content-container {
+  flex-grow: 1; /* Allow the content to grow and take up the available space */
+  padding: 20px;
+  background-color: #fff;
+  overflow: auto;
+}

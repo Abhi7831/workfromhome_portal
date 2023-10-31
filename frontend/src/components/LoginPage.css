@@ -1,0 +1,20 @@
+.login-form {
+    max-width: 300px;
+    margin: 0 auto;
+    margin-top: 10%;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background: linear-gradient(135deg, #007bff, #0047ab);
+    color: #fff; /* Change text color to white for better readability */
+    text-align: center;
+  }
+  
+  .login-form h2 {
+    margin-bottom: 20px;
+  }
+  
+  .alert {
+    margin-top: 10px;
+  }
